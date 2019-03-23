@@ -1,0 +1,2 @@
+# comunicator
+WhatsApp Type Chat
